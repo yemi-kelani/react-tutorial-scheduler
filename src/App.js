@@ -1,4 +1,3 @@
-import React, { useState, useEffect } from 'react';
 import { addScheduleTimes } from './utilities/times.js';
 import CourseList from './components/CourseList';
 import { useData } from './utilities/firebase.js';
